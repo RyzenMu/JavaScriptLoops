@@ -9,3 +9,6 @@ while (g <= 100)
     g += 10;
 
 }
+
+let x = prompt("enter your name");
+console.log("Your name is " + x);
